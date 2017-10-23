@@ -1,0 +1,4 @@
+explicit module PrivateData.Private {
+    // header "privatedatagenerator.h"
+    export *
+}
